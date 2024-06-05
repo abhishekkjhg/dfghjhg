@@ -1,0 +1,69 @@
+/* .dv1{
+    height: 400px;
+    width: 500px;
+    background-color: rgb(200, 42, 42);
+    padding: 70px;
+}
+.loader{
+    width: 200px;
+    height: 200px;
+    border: 3px solid;
+    border-radius: 50%;
+    border-bottom-color:transparent ;
+    box-sizing: border-box;
+    animation-name: rotation;
+    animation-duration: 1s;
+    animation-direction: alternate-reverse;
+    animation-iteration-count: infinite;
+
+}
+@keyframes rotation{
+ 0% {
+    transform: rotate(0deg);
+ }
+ 100%{
+    transform: rotate(360deg);
+ }
+
+}  */
+{
+    font-size: large;
+}
+.bx1{
+    height: 640px;
+    width: 600px;
+    background-color: rgb(52, 52, 52);
+    padding-left: 125px;
+    padding-top: 62px;
+}
+.bx2{
+    height: 560px;
+    width: 440px;
+    background-color: rgb(200, 199, 199);
+    padding-top: 50px;
+    padding-left: 45px;
+}.bx3{
+    width: 420px;
+    height: 55px;
+    border-radius: 4px;
+    margin-bottom: 45px;
+    background-image: linear-gradient(rgba(202, 187, 187, 0.739),rgb(132, 124, 124));
+}
+.box{
+    background-color: rgb(231, 231, 231);
+    margin: 3px;
+    height: 85px;
+    width: 80px;
+    border-radius: 3px;
+}
+.dv{
+    margin-left: 25px;
+}
+.boxc{
+    background-color: red;
+    color: white;
+}
+.boxs{
+    color: aliceblue;
+    background-color: rgb(44, 44, 44);
+ } 
